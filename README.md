@@ -11,6 +11,7 @@ Data Visualization
 **📈 Key Visualizations**
 
 The dashboard includes:
+
 KPI Cards
 Employee Gender Analysis
 Promotion Analysis
