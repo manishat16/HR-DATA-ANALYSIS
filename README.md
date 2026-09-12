@@ -2,10 +2,10 @@
 An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze employee data and generate meaningful workforce insights.
 
 **Tools Used**
-Microsoft Power BI
-Power Query
-DAX
-Data Modeling
+Microsoft Power BI,
+Power Query, 
+DAX, 
+Data Modeling, 
 Data Visualization
 
 **📈 Key Visualizations**
